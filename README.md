@@ -1,4 +1,4 @@
-# MurKMS-Manager 
+# MurKEY-Manager 
 
 An automation script for system administrators designed to manage Volume Licensing settings using the built-in Microsoft KMS toolkit.
 
